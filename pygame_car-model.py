@@ -194,6 +194,7 @@ while True:
 
     # draw the background color of window; still in loop 
     #screen.fill((255, 255, 255))
+    ##
 
     # draw the sprites on the screen
     
