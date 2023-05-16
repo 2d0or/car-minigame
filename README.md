@@ -1,2 +1,3 @@
 # car-game
-car game pygame
+a small car game written by me fully in python
+
